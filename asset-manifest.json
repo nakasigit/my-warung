@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-warung/static/css/main.2e509a14.css",
+    "main.js": "/my-warung/static/js/main.72fd75a1.js",
+    "static/js/787.98e59461.chunk.js": "/my-warung/static/js/787.98e59461.chunk.js",
+    "static/media/logo-mywarung.png": "/my-warung/static/media/logo-mywarung.d2b84e0690ec0e5342d9.png",
+    "index.html": "/my-warung/index.html",
+    "main.2e509a14.css.map": "/my-warung/static/css/main.2e509a14.css.map",
+    "main.72fd75a1.js.map": "/my-warung/static/js/main.72fd75a1.js.map",
+    "787.98e59461.chunk.js.map": "/my-warung/static/js/787.98e59461.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e509a14.css",
+    "static/js/main.72fd75a1.js"
+  ]
+}

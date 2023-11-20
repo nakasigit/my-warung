@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.hamburger-menu {
+  width: fit-content;
+  height: fit-content;
+  position: relative;
+  margin-right: 20px;
+  top: -5px;
+  border: 0.5px solid rgba(0, 0, 0, 0.361);
+  border-radius: 5px;
+}
+
+.hamburger-menu:hover {
+  border: 0.5px solid rgb(0, 0, 0);
+  transition: 0.3s ease;
+}
+
+.content-expanded {
+  transition: margin-left 0.3s ease; 
+  margin-left: 250px; 
+}
+
+.content-collapsed {
+  transition: margin-left 0.3s ease; 
+  margin-left: 0;
+}
